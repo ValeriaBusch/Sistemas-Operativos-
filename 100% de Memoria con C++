@@ -1,0 +1,9 @@
+#include<bits/stdc++.h> 
+int main() 
+{ 
+    while (true) 
+    { 
+         int *x = new int;   // allocating 
+         delete x;           // deallocating 
+    } 
+}   
